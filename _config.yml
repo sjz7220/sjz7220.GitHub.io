@@ -23,9 +23,9 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
+title: StarAsh West2
+description: "Literature is a luxury, but fiction is a necessity."
+keywords: 'jekyll,blog'
 author:
   name:
   job_title:
@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/sjz7220/sjz7220.github.io
     - name: instagram
       url:
     - name: linkedin
